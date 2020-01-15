@@ -24,4 +24,19 @@
         android:layout_marginTop="30dp"
         app:hi_indicatorColor="#ff8635"/>
 
+
+    <Button
+        android:id="@+id/btn1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="背景"/>
+
+    <Button
+        android:id="@+id/btn2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="指示器"/>
+
 </LinearLayout>
